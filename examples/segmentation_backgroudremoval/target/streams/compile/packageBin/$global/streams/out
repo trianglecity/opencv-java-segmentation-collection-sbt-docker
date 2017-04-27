@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /home/opencv/examples/segmentation_backgroudremoval/target/scala-2.11/segmentation_bgremoval_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	apple_1_bgremoval.png[0m
+[0m[[0mdebug[0m] [0m	  /home/opencv/examples/segmentation_backgroudremoval/target/scala-2.11/classes/apple_1_bgremoval.png[0m
+[0m[[0mdebug[0m] [0m	apple_1.gif[0m
+[0m[[0mdebug[0m] [0m	  /home/opencv/examples/segmentation_backgroudremoval/target/scala-2.11/classes/apple_1.gif[0m
+[0m[[0mdebug[0m] [0m	Segmentation_BgRemoval.class[0m
+[0m[[0mdebug[0m] [0m	  /home/opencv/examples/segmentation_backgroudremoval/target/scala-2.11/classes/Segmentation_BgRemoval.class[0m
+[0m[[0mdebug[0m] [0m	apple_1.png[0m
+[0m[[0mdebug[0m] [0m	  /home/opencv/examples/segmentation_backgroudremoval/target/scala-2.11/classes/apple_1.png[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

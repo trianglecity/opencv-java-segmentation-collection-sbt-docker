@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /home/opencv/examples/segmentation_adaptivethreshold/target/scala-2.11/segmentation_adaptive_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	apple_1_adaptive.png[0m
+[0m[[0mdebug[0m] [0m	  /home/opencv/examples/segmentation_adaptivethreshold/target/scala-2.11/classes/apple_1_adaptive.png[0m
+[0m[[0mdebug[0m] [0m	apple_1.gif[0m
+[0m[[0mdebug[0m] [0m	  /home/opencv/examples/segmentation_adaptivethreshold/target/scala-2.11/classes/apple_1.gif[0m
+[0m[[0mdebug[0m] [0m	Segmentation_Adaptive.class[0m
+[0m[[0mdebug[0m] [0m	  /home/opencv/examples/segmentation_adaptivethreshold/target/scala-2.11/classes/Segmentation_Adaptive.class[0m
+[0m[[0mdebug[0m] [0m	apple_1.png[0m
+[0m[[0mdebug[0m] [0m	  /home/opencv/examples/segmentation_adaptivethreshold/target/scala-2.11/classes/apple_1.png[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

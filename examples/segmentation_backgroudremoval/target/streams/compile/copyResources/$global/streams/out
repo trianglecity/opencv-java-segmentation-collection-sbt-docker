@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/opencv/examples/segmentation_backgroudremoval/src/main/resources/apple_1_bgremoval.png,/home/opencv/examples/segmentation_backgroudremoval/target/scala-2.11/classes/apple_1_bgremoval.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/opencv/examples/segmentation_backgroudremoval/src/main/resources/apple_1.gif,/home/opencv/examples/segmentation_backgroudremoval/target/scala-2.11/classes/apple_1.gif)[0m
+[0m[[0mdebug[0m] [0m	(/home/opencv/examples/segmentation_backgroudremoval/src/main/resources/apple_1.png,/home/opencv/examples/segmentation_backgroudremoval/target/scala-2.11/classes/apple_1.png)[0m
